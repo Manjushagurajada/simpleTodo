@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.todos-container {
+  height: 100vh;
+  background-color: #ffc2a0;
+  font-family: 'Roboto';
+  border: 2px solid #ff8542;
+}
+
+* {
+  margin: 0px;
+}
+
+.inside-container {
+  margin: 70px;
+  background-color: white;
+  border-radius: 20px;
+  padding: 50px;
+  height: 85vh;
+}
+
+.heading {
+  color: #ff8542;
+  font-size: 45px;
+  text-align: center;
+  padding-bottom: 50px;
+}
+.unordered-list {
+  flex-grow: 1;
+  font-size: 26px;
+}

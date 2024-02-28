@@ -1,0 +1,15 @@
+.container {
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 30px;
+}
+
+.button {
+  color: #ff0b37;
+  border: 2px solid #ff0b37;
+  height: 40px;
+  width: 60px;
+  border-radius: 7px;
+}
